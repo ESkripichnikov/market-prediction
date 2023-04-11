@@ -1,4 +1,5 @@
 papers/
+models/*.joblib
 data/*.csv
 
 *.bundle.*
